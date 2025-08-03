@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+fastapi-users[sqlalchemy]
+celery
+redis
+python-multipart
+pydantic
+asyncpg
